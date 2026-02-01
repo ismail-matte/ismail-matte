@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ismail-matte
-- 👀 I’m interested in Data Analytics and Innovation
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Analytics, AI, ML and Innovation
 - 💞️ I’m looking to collaborate on Application of Data Analytics
-- 📫 How to reach me P.O.Box 100179 Kampala GPO
+- 📫 How to reach me  - imatte@consultant.com
 
 <!---
 ismail-matte/ismail-matte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
